@@ -1,0 +1,6 @@
+C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\bin\Debug\MG.PoshRSJob.dll
+C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\bin\Debug\MG.PoshRSJob.pdb
+C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.dll
+C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.pdb
