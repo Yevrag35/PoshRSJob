@@ -4,3 +4,8 @@ C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.
 C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.csproj.CoreCompileInputs.cache
 C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.dll
 C:\Users\Mike\source\repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.pdb
+C:\Repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.csproj.CoreCompileInputs.cache
+C:\Repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.dll
+C:\Repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\obj\Debug\MG.PoshRSJob.pdb
+C:\Repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\bin\Debug\MG.PoshRSJob.dll
+C:\Repos\Yev-PoshRSJob\MG.PoshRSJob\MG.PoshRSJob\bin\Debug\MG.PoshRSJob.pdb

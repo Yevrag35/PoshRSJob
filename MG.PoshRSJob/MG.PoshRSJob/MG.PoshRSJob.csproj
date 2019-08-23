@@ -40,6 +40,8 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="GuidOrInt.cs" />
+    <Compile Include="JobResultCollection.cs" />
     <Compile Include="JobRunner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RSJob.cs" />
